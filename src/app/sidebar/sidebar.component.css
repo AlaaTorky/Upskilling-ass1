@@ -1,0 +1,19 @@
+.side-bar {
+    background-color: #ddd;
+}
+.side-bar img {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+.side-bar span {
+    color: #2c98f0;
+}
+a {
+    color: black;
+    transition: all .3s;
+}
+.link-active {
+    color: #2c98f0;
+    border-bottom: 2px solid #2c98f0;
+}

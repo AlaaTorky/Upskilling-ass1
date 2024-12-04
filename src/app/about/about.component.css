@@ -1,0 +1,38 @@
+.item-g {
+    border-bottom: 2px solid #2c98f0;
+}
+.item-g i {
+    font-size: 30px;
+    color: #2c98f0;
+    margin-bottom: 20px;
+}
+.item-w i {
+    font-size: 30px;
+    color: #ec5453;
+    margin-bottom: 20px;
+
+}
+.item-w {
+    border-bottom: 2px solid #ec5453;
+}
+.item-s i {
+    font-size: 30px;
+    color: #f9bf3f;
+    margin-bottom: 20px;
+
+}
+.item-s {
+    border-bottom: 2px solid #f9bf3f;
+}
+.item-a i {
+    font-size: 30px;
+    color: #a84cb8;
+    margin-bottom: 20px;
+
+}
+.item-a {
+    border-bottom: 2px solid #a84cb8;
+}
+h2 {
+    margin-bottom: 20px;
+}
